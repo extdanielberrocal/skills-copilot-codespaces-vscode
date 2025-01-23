@@ -1,0 +1,10 @@
+{
+    "name": "my-project-devcontainer-ai",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
