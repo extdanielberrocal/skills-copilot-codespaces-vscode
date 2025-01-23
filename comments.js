@@ -1,4 +1,4 @@
-//Create a web server that listens on port 3000. It should return the comments array in JSON format when it receives a GET request to the path /comments. The comments array is defined in the following way:
+// Create web server
 
 const express = require('express');
 const app = express();
